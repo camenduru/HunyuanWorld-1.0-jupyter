@@ -16,3 +16,4 @@ https://3d-models.hunyuan.tencent.com/world/
 
 ### 🖼 Output
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/86199b13-a294-49d2-a1d9-67d7e64bfc22" />
