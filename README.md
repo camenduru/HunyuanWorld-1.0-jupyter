@@ -11,6 +11,9 @@
 ### 🧬 Code
 https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0
 
+### 📄 Paper
+https://3d-models.hunyuan.tencent.com/world/HY_World_1_technical_report.pdf
+
 ### 🌐 Page
 https://3d-models.hunyuan.tencent.com/world/
 
