@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/HunyuanWorld-1.0-jupyter/blob/main/HunyuanWorld-1.0_jupyter.ipynb) | HunyuanWorld-1.0_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/HunyuanWorld-1.0-jupyter/blob/main/HunyuanWorld-1.0_jupyter.ipynb) | HunyuanWorld-1.0_jupyter (Pro Colab 😐 ~22GB VRAM)
 
 ### 🧬 Code
 https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0
